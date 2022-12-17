@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-Nuclear Engineer 👨‍🎓<br>Aspiring Full Stack Developer👨‍🔧<br>Looking for new opportunities 🔍<br>Student of Microverse 💪
+Nuclear Engineer 👨‍🎓<br>Aspiring Full-Stack Developer👨‍🔧<br>Looking for new opportunities 🔍<br>Student of Microverse 💪
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prangonghose.1998/) 
