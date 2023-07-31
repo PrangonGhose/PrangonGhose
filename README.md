@@ -1,5 +1,8 @@
-<div align='center'> 
-<img src='./Prangon_ghose.gif'>
+<div align='center'>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=500&size=42&duration=5000&pause=500&color=FF8C00&center=true&vCenter=true&width=650&height=85&lines=Hello!+I+am+Prangon+Ghose;A+Full-Stack+Developer!;A+Nuclear+Engineer" alt="Typing SVG" />
+</div>
 
 # 💫 About Me:
 
