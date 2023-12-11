@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Student at Université Paris Cité 🧐<br>Nuclear Engineer 👨‍🎓<br>Full-Stack Developer👨‍🔧<br>Aspiring Artificial Intelligence Engineer 👩‍💻<br>Looking for new opportunities 🔍<br>Graduate from Microverse 💪
+Graduate Student at Université Paris Cité 🧐<br>Deep Learning Research Intern at Université de Reims Champagne-Ardenne 🔬<br>Nuclear Engineer 👨‍🎓<br>Full-Stack Developer👨‍🔧<br>Aspiring Artificial Intelligence Engineer 👩‍💻<br>Looking for new opportunities 🔍<br>Graduate from Microverse 💪
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/prangonghose.1998/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prangon-ghose/) [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://wellfound.com/u/prangon-ghose-1) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prangonghose@gmail.com) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Prangon-Ghose) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://prangonghose.github.io/Prangon_Ghose/) [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/PrangonGhose)
